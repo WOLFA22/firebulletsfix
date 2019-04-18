@@ -1,3 +1,9 @@
+Forked from XutaxKamay/firebulletsfix.
+This repository is experimental, it is not recommended to use anything from it, because your game server [TF2] will crash.
+Accelerator uploads ID: DDJG-MJ3R-YZLU and PSMS-IEA3-3U5L.
+
+=== Original repository description ===
+
 This plugin needs dhooks in order to work.
-Please use this version of dhooks if you don't want your server to crash https://github.com/XutaxKamay/dhooks/releases, 
+Please use this version of dhooks if you don't want your server to crash - https://github.com/XutaxKamay/dhooks/releases, 
 I'm waiting for the author (Drifter) of DHooks to fix this issue.
