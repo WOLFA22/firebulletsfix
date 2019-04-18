@@ -25,4 +25,16 @@
 			}
 		}
 	}
+	"tf" 
+    	{ 
+		"Offsets" 
+        	{ 
+            		"Weapon_ShootPosition" 
+            		{ 
+                		"windows"    "258" 
+                		"linux"      "259" 
+                		"mac"        "259" 
+            		} 
+        	} 
+    	} 
 }
